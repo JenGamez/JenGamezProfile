@@ -1,0 +1,95 @@
+* {
+    box-sizing: border-box;
+  }
+
+hr  {
+    color: #777777
+}
+     
+ 
+
+ .Blocks {
+     border: solid;
+     margin: 20px;
+     position: relative;
+ }   
+ 
+
+.navbar-brand {
+    background-color: #4aaaa5;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    padding: 80px 20px 80px 20px;
+    margin: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+}
+
+.Blocks h3{
+       position: absolute;
+       background-color: #4aaaa5;
+       color: white;
+       width: 100%;
+       text-align: center;
+       padding: 20px;
+       bottom: 5px;
+       
+}
+
+/* <!--SAVING FOR IF I FIGURE OUT HOW TO DO BACKGROUND-->    */
+
+.content {
+       color: #777777;
+       background: url(../../assets/images/spring.png) repeat;
+       border-top: 3px #cccccc solid;
+}
+
+.container {
+        font-family: Arial, Helvetica, sans-serif;
+        color: #777777;
+        background: #ffffff;
+        border-color: #777777;
+        padding-bottom: 20px;
+        border: #cccccc solid 1px;
+    }    
+ .RPG {
+     padding: 0px 5px 70px 1px;
+ }
+
+ .header-navigation {
+     Color: #777777
+ }
+
+ .page-header {
+    color: #4aaaa5;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+ }
+
+.form-group {
+       font-family: Arial, Helvetica, sans-serif;
+       
+}
+
+.Submit {
+       color: #4aaaa5;
+}
+
+h1 {
+    padding: 20px 0px 20px 5px;
+}
+
+.p2 {
+
+padding-top: 20px;
+}
+
+ .footer  {
+        display: flex;
+        justify-content: center;
+        align-content: flex-end;
+        background: #666666;
+        height: 50px;
+        width: 100%;
+        border-top: 6px solid #4aaaa5 ;
+ }
